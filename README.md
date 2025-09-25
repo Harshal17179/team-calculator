@@ -10,3 +10,6 @@ Features:
 ## Contributors
 - Harshal Sonje
 - Shruti Bhadane
+---
+
+**Version:** 1.0.0
