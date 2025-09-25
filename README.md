@@ -5,3 +5,7 @@ Features:
 - Basic arithmetic operations (add, subtract, multiply, divide)
 - Advanced operations (sqrt, power, percentage)
 - Simple command-line interface (CLI)
+
+---
+## Contributors
+- Harshal Sonje
